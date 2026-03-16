@@ -1,4 +1,4 @@
-🔍 FIM-Agent\
+🔍 FIM-Agent
 
 A lightweight, real-time File Integrity Monitoring (FIM) agent that tracks file changes across your system and sends events to OpenSearch for analysis and visualization.
 
@@ -172,7 +172,9 @@ go build -o fim-agent main.go
    C:\Users\johnn\Desktop: 1 directories
    C:\Users\johnn\Documents: 28 directories
 
----# 🔍 FIM-AgentA lightweight, real-time File Integrity Monitoring (FIM) agent that tracks file changes across your system and sends events to OpenSearch for analysis and visualization.
+---# 🔍 FIM-Agent
+
+A lightweight, real-time File Integrity Monitoring (FIM) agent that tracks file changes across your system and sends events to OpenSearch for analysis and visualization.
 
 📦 Prerequisites
 
