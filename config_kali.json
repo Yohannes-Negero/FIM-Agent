@@ -1,0 +1,26 @@
+{
+    "watch_roots": [
+        "/home/john/Desktop",
+        "/home/john/Documents",
+        "/home/john/Downloads"
+    ],
+    "exclude_dirs": [
+        ".cache",
+        "tmp",
+        ".local/share/Trash",
+        "snap",
+        ".mozilla",
+        ".config"
+    ],
+    "max_depth": 10,
+    "debounce_time": "1s",
+    "batch_size": 1,
+    "opensearch": {
+        "url": "opensearch url",
+        "username": "your_username",
+        "password": "your password",
+        "index": "fim-events-linux"
+    },
+    "state_file": "/home/your_username/fim-state.json",
+    "verbose": true
+}

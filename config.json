@@ -1,0 +1,23 @@
+{
+    "watch_roots": [
+        "C:\\Users\\johnn\\Desktop",
+        "C:\\Users\\johnn\\Documents"
+    ],
+    "exclude_dirs": [
+        "temp",
+        "cache",
+        ".git",
+        "AppData"
+    ],
+    "max_depth": 10,
+    "debounce_time": "3s",
+    "batch_size": 1,
+    "opensearch": {
+        "url": "opensearch url",
+        "username": "your username",
+        "password": "your password",
+        "index": "fim-events"
+    },
+    "state_file": "fim-state.json",
+    "verbose": true
+}
